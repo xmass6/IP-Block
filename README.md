@@ -1,2 +1,1 @@
-->This is a simple python script to block malicious ip's.
-->Since this is tested on Windows, netsh is used to apply firewall block on ip's.
+This is a simple Python script to block malicious IPs. Since this is tested on Windows, netsh is used to apply firewall blocks on IPs.
